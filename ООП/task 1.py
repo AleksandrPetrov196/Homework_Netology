@@ -124,9 +124,3 @@ print(some_student)
 #        print('Оценки одинаковые')
 #comparison()
 
-#for stud, grade in Student.grades:
-#    print(stud)
-#    for ingred in ingredient:  
-#        print(ingred[0], ingred[1] * person, ingred[2])
-ss = Student.grades()
-print(ss)
